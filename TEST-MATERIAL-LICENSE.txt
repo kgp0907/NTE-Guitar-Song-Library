@@ -1,0 +1,5 @@
+These three short phrases were newly generated for NTE Guitar integration testing.
+No existing user song, commercial song, or third-party MIDI was used.
+To the extent copyright applies, the test phrases and packages are dedicated to the public domain under CC0 1.0.
+https://creativecommons.org/publicdomain/zero/1.0/
+Catalog download URLs are reserved destinations and require publication before use.

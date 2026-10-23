@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-23T00:00:00Z",
+  "songs": [
+    {
+      "id": "original-test-1",
+      "title": "테스트 선율 A",
+      "artist": "NTE Guitar Test",
+      "arranger": "NTE Guitar Test",
+      "description": "검증용으로 새로 만든 짧은 선율입니다.\n테스트 자료 · CC0",
+      "duration_seconds": 4.0,
+      "part_count": null,
+      "original_midi_included": false,
+      "source_kind": "none",
+      "package_format_version": 1,
+      "file_name": "test-1.ntesong",
+      "file_size_bytes": 699,
+      "sha256": "2830259e881e18cbfcb8dd7abc42b5d7d2a3ca2bfc67898be2563b9868c4c463",
+      "download_url": "https://github.com/kgp0907/NTE-Guitar-Song-Library/releases/download/test-library-v1/test-1.ntesong",
+      "rights_note": "Newly authored test material, CC0-1.0.",
+      "published_at": "2026-10-23T00:00:00Z"
+    },
+    {
+      "id": "original-test-2",
+      "title": "音符サンプル B",
+      "artist": "NTE Guitar Test",
+      "arranger": "NTE Guitar Test",
+      "description": "",
+      "duration_seconds": 4.0,
+      "part_count": 1,
+      "original_midi_included": false,
+      "source_kind": "saved_notes",
+      "package_format_version": 1,
+      "file_name": "test-2.ntesong",
+      "file_size_bytes": 1159,
+      "sha256": "abec74a44a3a1dcc8b61632ccdb8e4a0407de7b73255f3ec1dbdbf5f83f16e25",
+      "download_url": "https://github.com/kgp0907/NTE-Guitar-Song-Library/releases/download/test-library-v1/test-2.ntesong",
+      "rights_note": "Newly authored test material, CC0-1.0.",
+      "published_at": "2026-10-23T00:00:00Z"
+    },
+    {
+      "id": "original-test-3",
+      "title": "Original Test Phrase C",
+      "artist": "NTE Guitar Test",
+      "arranger": "NTE Guitar Test",
+      "description": "Original six-note test phrase.",
+      "duration_seconds": 4.0,
+      "part_count": null,
+      "original_midi_included": true,
+      "source_kind": "midi",
+      "package_format_version": 1,
+      "file_name": "test-3.ntesong",
+      "file_size_bytes": 948,
+      "sha256": "0864353abc4a045f4a77f0961eadd8267e65dfa278ecb97346d2efacedf8db64",
+      "download_url": "https://github.com/kgp0907/NTE-Guitar-Song-Library/releases/download/test-library-v1/test-3.ntesong",
+      "rights_note": "Newly authored test material, CC0-1.0.",
+      "published_at": "2026-10-23T00:00:00Z"
+    }
+  ]
+}
